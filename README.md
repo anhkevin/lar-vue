@@ -29,6 +29,7 @@ Homestead.yaml
 
 # Vagrant start
 vagrant up
+```
 
 ## Laravel Installing
 ```bash
@@ -38,3 +39,4 @@ composer global require laravel/installer
 # Laravel installation
 laravel new lar-vue
 cd lar-vue
+```
