@@ -1,12 +1,13 @@
 <h1 align="center" size="20px">Laravel + Vue</h1>
 
 ## Homestead environment
-# Install VirtualBox
-Link: https://www.virtualbox.org/wiki/Downloads
+### Install VirtualBox
+https://www.virtualbox.org/wiki/Downloads
 
-# Vagrant (https://www.vagrantup.com/downloads.html)
+### Vagrant 
+https://www.vagrantup.com/downloads.html
 
-# Installing
+### Installing
 ```bash
 # Installing The Homestead Vagrant Box
 vagrant box add laravel/homestead
@@ -26,6 +27,7 @@ init.bat
 Homestead.yaml
 
 # Hostname Resolution
+192.168.10.10  homestead.test
 
 # Vagrant start
 vagrant up
